@@ -1,0 +1,97 @@
+header {
+    text-align: center;
+    color: khaki;
+    font-family: "Helvetica";
+    font-size: 100px;
+    font-weight: bold;
+    background-image: url(images/pattern.webp);
+}
+
+.brushes {
+    text-align: left;
+    color: white;
+    font-family: "Helvetica";
+    font-size: 32px;
+    font-weight: bold;
+    background-color: mediumspringgreen;
+}
+
+.hacksaw {
+    text-align: left;
+    font-family: "Helvetica";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.hacksaw-description {
+    text-align: left;
+    font-family: "Helvetica";
+    font-size: 16px;
+}
+
+.hacksaw-blue {
+    text-align: left;
+    color: blue;
+    font-family: "Helvetica";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.frames {
+    text-align: left;
+    color: white;
+    font-family: "Helvetica";
+    font-size: 32px;
+    font-weight: bold;
+    background-color: lightcoral;
+}
+
+.art-frames {
+    text-align: left;
+    font-family: "Helvetica";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.frames-description {
+    text-align: left;
+    font-family: "Helvetica";
+    font-size: 16px;
+}
+
+.frames-blue {
+    text-align: left;
+    color: blue;
+    font-family: "Helvetica";
+    font-size: 16px;
+    font-weight: bold;
+}
+.paint {
+    text-align: left;
+    color: white;
+    font-family: "Helvetica";
+    font-size: 32px;
+    font-weight: bold;
+    background-color: skyblue;
+}
+
+.finnish-paint {
+    text-align: left;
+    font-family: "Helvetica";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.paint-description {
+    text-align: left;
+    font-family: "Helvetica";
+    font-size: 16px;
+}
+
+.paint-blue {
+    text-align: left;
+    color: blue;
+    font-family: "Helvetica";
+    font-size: 16px;
+    font-weight: bold;
+}
